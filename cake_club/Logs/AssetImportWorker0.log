@@ -582,3 +582,43 @@ System memory in use after: 61.3 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1660.
 Total: 2.512500 ms (FindLiveObjects: 0.282500 ms CreateObjectMapping: 0.139500 ms MarkObjects: 2.027800 ms  DeleteObjects: 0.061100 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 2292.152074 seconds.
+  path: Assets/#7_Lukas_Lin/Scripts/funnel_controller.cs
+  artifactKey: Guid(1231475b4ba1c1e4fb5dc196a83ff729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#7_Lukas_Lin/Scripts/funnel_controller.cs using Guid(1231475b4ba1c1e4fb5dc196a83ff729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a2d0cdb01cc3dcf532f8e7fcb9a492') in 0.006642 seconds
+  Import took 0.010781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002989 seconds.
+  path: Assets/#7_Lukas_Lin/Scripts/funnel_controller.cs
+  artifactKey: Guid(1231475b4ba1c1e4fb5dc196a83ff729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#7_Lukas_Lin/Scripts/funnel_controller.cs using Guid(1231475b4ba1c1e4fb5dc196a83ff729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a2d0cdb01cc3dcf532f8e7fcb9a492') in 0.004341 seconds
+  Import took 0.007222 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 2.493400 ms (FindLiveObjects: 0.298100 ms CreateObjectMapping: 0.186300 ms MarkObjects: 1.945900 ms  DeleteObjects: 0.060600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
