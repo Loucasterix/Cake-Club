@@ -8,10 +8,13 @@
       <e p="Assets" t="Include">
         <e p="#7_Lukas_Lin" t="Include">
           <e p="Scripts" t="Include">
+            <e p="BoneCube.cs" t="Include" />
+            <e p="BoneSphere.cs" t="Include" />
             <e p="camera_ray_lulin.cs" t="Include" />
             <e p="cube_controller.cs" t="Include" />
             <e p="funnel_controller.cs" t="Include" />
             <e p="jelly_mesh.cs" t="Include" />
+            <e p="Softbody.cs" t="Include" />
           </e>
         </e>
       </e>

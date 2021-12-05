@@ -56,6 +56,9 @@
      <Compile Include="Assets\#7_Lukas_Lin\Scripts\cube_controller.cs" />
      <Compile Include="Assets\#7_Lukas_Lin\Scripts\jelly_mesh.cs" />
      <Compile Include="Assets\#7_Lukas_Lin\Scripts\camera_ray_lulin.cs" />
+     <Compile Include="Assets\#7_Lukas_Lin\Scripts\BoneCube.cs" />
+     <Compile Include="Assets\#7_Lukas_Lin\Scripts\BoneSphere.cs" />
+     <Compile Include="Assets\#7_Lukas_Lin\Scripts\Softbody.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
