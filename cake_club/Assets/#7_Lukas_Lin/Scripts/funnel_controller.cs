@@ -20,6 +20,7 @@ public class funnel_controller : MonoBehaviour
         {
             funnel[0].GetComponent<Rigidbody>().AddForce(new Vector3(funnelSpeed, 0,0) * Time.deltaTime * strength, ForceMode.Impulse);
             //funnel[0].transform.position += new Vector3(funnelSpeed, 0,0);
+            Debug.Log("'hi'");
         } 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
