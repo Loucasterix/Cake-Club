@@ -12,6 +12,7 @@
             <e p="BoneSphere.cs" t="Include" />
             <e p="camera_ray_lulin.cs" t="Include" />
             <e p="cube_controller.cs" t="Include" />
+            <e p="fallingCake.cs" t="Include" />
             <e p="funnel_controller.cs" t="Include" />
             <e p="jelly_mesh.cs" t="Include" />
             <e p="Softbody.cs" t="Include" />
